@@ -18,6 +18,9 @@ I am working on building a mobile application based on:
 - Javascript: react, react-native, Vue, expo. JQuery is still fresh in my mind
 - HTML, CSS, CSS frameworks and preprocessors
 - Linux :) - currently Fedora, some time ago Debian, Centos, Ubuntu
+- Python
+- GIT, SVN, Github of course
+- JetBrains
   
 #### 📫 How to contact me: 
 https://pl.linkedin.com/in/marek-zdybel-00784256
