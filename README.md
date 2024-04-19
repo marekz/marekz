@@ -6,7 +6,11 @@
 I have been working for an external company for several years, and after hours I develop my own ideas
 
 #### 🌱 Privately, 
-I am working on building a mobile application based on expo, express.js, mongoDB and Symfony.
+I am working on building a mobile application based on:
+- expo (mobile app)
+- express.js (backend)
+- mongoDB and MariaDB
+- and Symfony 7^ (SevenUp :)).
 
 #### ⚒️ My tech stack is:
 - PHP and Symfony
