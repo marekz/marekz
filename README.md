@@ -10,7 +10,7 @@ I am working on building a mobile application based on:
 - expo (mobile app)
 - express.js (backend)
 - mongoDB and MariaDB
-- and Symfony 7^ (SevenUp :)).
+- and Symfony
 
 #### ⚒️ My tech stack is:
 - PHP and Symfony
